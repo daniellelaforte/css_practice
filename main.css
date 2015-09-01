@@ -1,0 +1,160 @@
+/* ADD YOUR STYLES HERE */
+
+.instruction-answer td{
+	padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.bear tr {
+	 border-bottom: solid 1px #d3d3d3;
+	 
+}
+
+.bear tr:last-child{
+	border-bottom: 0;
+}
+
+.bear thead th{
+	text-align: left;
+	padding: 10px;
+	border-bottom: solid 1px #d3d3d3;
+}
+
+.rat {
+	border-bottom: solid 1px #d3d3d3;
+	border-top: solid 1px #d3d3d3;
+}
+
+.rat div:first-child {
+	font-size: 38px;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+
+.rat div:nth-child(2) {
+	font-size: 13px;
+	color: #d3d3d3;
+	text-align: center;
+}
+
+.rat {
+	max-width: 275px;
+	min-height: 100px;
+}
+
+.instruction-answer .bar td{
+	padding: 0;
+	text-indent: 5px;
+	text-align: left;
+
+}
+
+.bar th{
+	width: 15%;
+}
+
+.bar div{
+	border: solid 1px white;
+	background-color: #97B1E5;
+	color: white;
+	height: 25px;
+	line-height: 30px;
+	border-radius: 0 5px 5px 0;
+}
+
+.frog {
+	position: relative;
+top: 200px;
+	margin: 0 auto;
+	width: 500px;
+	height: 250px;
+	padding: 20px;
+	background-color: white;
+	border-radius: 10px;
+
+}
+
+/*.greeny {
+	position: fixed;
+    z-index: 2;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.8);
+	
+}*/
+
+.but {
+	position: relative;
+
+	width: 125px;
+	height: 40px;
+	background-color: #FF9966;
+	font-size: 20px;
+	text-align: center;
+	vertical-align: center;
+	border-radius: 10px;
+	float: right;
+
+}
+
+.buta {
+	color: white;
+	text-decoration: none; 
+	line-height: 2em;
+
+}
+
+.myimage {
+	float: left;
+	padding-right: 10px;
+}
+
+.hello {
+	margin: 10px;
+}
+
+.myimageagain {
+	float: left;
+	padding-right: 10px;
+}
+
+.hey {
+	
+	overflow: hidden;
+}
+
+.end {
+	float: left;
+	padding-right: 10px;
+}
+
+.end1 {
+	
+	overflow: hidden;
+}
+
+.bug {
+	float: left;
+	padding-right: 10px;
+}
+
+.bug1 {
+	float: left;
+	padding-right: 10px;
+}
+
+.hi {
+	
+	overflow: hidden;
+}
